@@ -1,1 +1,0 @@
-Entrega d'exercici: Classes & Arrow Functions. Nivell 1, 2 i 3.
