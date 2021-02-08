@@ -1,13 +1,10 @@
-//Entrega d'exercici: Classes & Arrow Functions. Nivell 1, 2 i 3.
-
-
 //NIVELL 1
 
-//Task 1
+//Task 1: arrow function autoinvocable 
 
-let sum = (x, y) => console.log(x+y);
-
-sum(3,4);
+((n1, n2) => {
+    console.log(n1+n2);   
+  })(44,11);
 
 
 //Task 2
